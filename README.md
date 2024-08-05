@@ -1,6 +1,6 @@
-# ccompatible-mods-finder
+# osu-compatible-mods-finder
 
-simple script that takes an osu! mod, returns a comma-separated list of compatible mods.
+simple script that takes an osu! mod, returns a comma-separated list of all compatible mods.
 
 ## Usage
 
